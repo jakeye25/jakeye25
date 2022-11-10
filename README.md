@@ -5,9 +5,13 @@
 <!-- [github-stats]: -->
 <div align='center'>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakeye25&show_icons=true&theme=dracula)](https://github.com/jakeye25)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakeye25&show_icons=true&theme=gruvbox)](https://github.com/jakeye25)
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeye25" /> -->
 </div>
+
+## About me:
+
+I'm a Georgia Tech graduate candidate and software engineer with a passion for problem-solving. I'm always open to learning more and collaborating on projects.
 
 
 ## Languages:
@@ -28,6 +32,11 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+## Connect With Me!
+<a href="https://www.linkedin.com/in/jake-ye-a2365250/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://angel.co/u/jia-jun-jake-ye" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)</a>
 
 
 <!--
