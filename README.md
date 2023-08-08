@@ -2,12 +2,7 @@
 
 
 
-<!-- [github-stats]: -->
-<div align='center'>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakeye25&show_icons=true&theme=gruvbox)](https://github.com/jakeye25)
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeye25" /> -->
-</div>
 
 ## About me:
 
